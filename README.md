@@ -41,4 +41,8 @@ Start the Chatbot
 python chatbot.py
 ```
 
+You can install the package from PyPI using pip:
 
+```
+pip install grass_sample_chatbot
+```

@@ -1,4 +1,6 @@
+README.md
 setup.py
+grass_gis_chatbot/__init__.py
 grass_sample_chatbot.egg-info/PKG-INFO
 grass_sample_chatbot.egg-info/SOURCES.txt
 grass_sample_chatbot.egg-info/dependency_links.txt

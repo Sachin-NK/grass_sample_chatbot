@@ -1,0 +1,26 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directories
+.venv/
+env/
+venv/
+
+# Ignore model and dataset files
+grass_gis_chatbot_model/model.safetensors
+grass_gis_chatbot_model/spiece.model
+grass_gis_chatbot_model/added_tokens.json
+
+# Ignore logs and temporary files
+logs/
+results/
+
+# Ignore Gradle build files
+.gradle/
+
+# Ignore system files and editor-specific files
+.DS_Store
+.idea/
+.vscode/

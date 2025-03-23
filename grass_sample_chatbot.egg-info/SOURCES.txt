@@ -1,0 +1,6 @@
+setup.py
+grass_sample_chatbot.egg-info/PKG-INFO
+grass_sample_chatbot.egg-info/SOURCES.txt
+grass_sample_chatbot.egg-info/dependency_links.txt
+grass_sample_chatbot.egg-info/requires.txt
+grass_sample_chatbot.egg-info/top_level.txt

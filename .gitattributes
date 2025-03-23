@@ -1,0 +1,2 @@
+grass_gis_chatbot_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+grass_gis_chatbot_model/config.json filter=lfs diff=lfs merge=lfs -text
